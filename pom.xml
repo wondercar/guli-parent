@@ -23,7 +23,7 @@
     </properties>
 
     <dependencies>
-
+        <!--master分支添加了一条注释-->
     </dependencies>
     <build>
         <plugins>

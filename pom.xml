@@ -21,7 +21,7 @@
     <properties>
         <java.version>1.8</java.version>
     </properties>
-
+        <!--hot-fix添加了一条注释-->
     <dependencies>
         <!--master分支添加了一条注释-->
     </dependencies>

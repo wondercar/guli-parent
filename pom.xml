@@ -24,6 +24,7 @@
 
     <dependencies>
         <!--master分支创建的一条注释-->
+        <!--hot-fix分支添加了一条注释-->
     </dependencies>
     <build>
         <plugins>
